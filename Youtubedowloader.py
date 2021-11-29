@@ -1,4 +1,3 @@
-from logging import exception
 from pytube import YouTube
 import os
 print("YOUTUBE VIDEO DOWNLOADER")
