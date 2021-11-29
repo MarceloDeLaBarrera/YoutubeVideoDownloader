@@ -1,6 +1,6 @@
 # Youtube Video Downloader
 
-_This is a simple app, when you can paste your url, select a resolution, and download a video._
+_This is a simple app, when you can paste your url, select a resolution, and download a video from youtube._
 
 ## Table of contents
 - [Starting](#starting-)
