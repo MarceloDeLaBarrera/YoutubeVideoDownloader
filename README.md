@@ -1,4 +1,4 @@
-# Youtube Video Downloader Readme
+# Youtube Video Downloader
 
 _This is a simple app, when you can paste your url, select a resolution, and download a video._
 
